@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy estudiante de ingeniería en computación en la UNAM
 
-<!--
-**Joshua-flores85/Joshua-flores85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apasionado por todo lo relacionado con la computación.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Perfil y Trayectoria Académica
+* **Carrera:** Ingeniería en Computación (Facultad de Ingeniería, UNAM).
+* **Intereses:** Ciberseguridad, aprendizaje de lenguajes de programación, aprendizaje de nuevas herramientas tecnológicas.
+
+---
+
+## 🏈 Pasiones y Hobbies
+* **Fútbol Americano:** Practico este deporte activamente. La disciplina, el trabajo en equipo y la estrategia son valores fundamentales tanto en el emparrillado como en la ingeniería.
+* **Tocho Bandera (Flag Football):** Lo practico como segundo pasatiempo. La agilidad, la estrategia, el trabajo en equipo y la rapidez mental son valores clave que aplico tanto en el campo de juego como en la ingeniería.
+
+---
+
+## 🌐 Enlaces y Contacto
+* **Instagram:** [@joshua_fl_c](https://www.instagram.com/joshua_fl_c)
+* **Teléfono:** [5539095536]
