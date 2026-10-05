@@ -6,7 +6,7 @@ Apasionado por todo lo relacionado con la computación.
 
 ## 📚 Perfil y Trayectoria Académica
 * **Carrera:** Ingeniería en Computación (Facultad de Ingeniería, UNAM).
-* **Intereses:** Ciberseguridad, aprendizaje de lenguajes de programación, aprendizaje de nuevas herramientas tecnológicas.
+* **Intereses:** Ciberseguridad, aprendizaje de lenguajes de programación, aprendizaje de nuevas herramientas tecnológicas, mecánica automotriz.
 
 ---
 
